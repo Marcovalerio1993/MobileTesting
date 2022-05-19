@@ -18,7 +18,7 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.w
 DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.testng.keyword.internal.TestNGDriverCleaner())
 
 
-RunConfiguration.setExecutionSettingFile('C:\\Users\\IBSSRL~1\\AppData\\Local\\Temp\\Katalon\\Test Cases\\GM-GoogleMaps\\Randomic search\\20220519_125006\\execution.properties')
+RunConfiguration.setExecutionSettingFile('C:\\Users\\IBSSRL~1\\AppData\\Local\\Temp\\Katalon\\Test Cases\\GM-GoogleMaps\\Randomic search\\20220519_161334\\execution.properties')
 
 TestCaseMain.beforeStart()
 

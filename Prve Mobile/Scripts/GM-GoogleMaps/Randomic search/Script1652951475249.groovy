@@ -105,6 +105,8 @@ for(i=1;i<=10;i++) {
 //parte finale
 Mobile.delay(5)
 
+Mobile.scrollToText('Indicazioni', FailureHandling.STOP_ON_FAILURE)
+
 if(Mobile.tap(findTestObject('Object Repository/GM-GoogleMaps/GM-IndicationsGeneric'),10)) {
 	
 	KeywordUtil.markPassed('App did\'t find a single place but more locations')	
