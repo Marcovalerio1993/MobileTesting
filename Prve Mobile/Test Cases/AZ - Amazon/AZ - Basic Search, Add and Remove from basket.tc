@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Try 4 git</name>
+   <name>AZ - Basic Search, Add and Remove from basket</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>014da55a-3324-4d32-a965-17cc70ba265f</testCaseGuid>
+   <testCaseGuid>708276a5-e605-4366-95c6-87eb2d2e46ea</testCaseGuid>
 </TestCaseEntity>
